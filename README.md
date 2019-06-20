@@ -1,4 +1,4 @@
-# Dating site
+# Shukay Tebe site
 Contributors:
 - Yrii Voron
 - Tetyana Kuzina
